@@ -1,2 +1,3 @@
 # Redacted-Public-Release-VINCI-Enh-DART-Jun-2016
 Repository containing the CIF submission for VA Informatics and Computing Infrastructure Enhancements DART rec Jun 2016.
+The Sustainment of VA Informatics and Computing Infrastructure (VINCI) includes maintenance of the deployed functionality for Natural Language Processing (NLP), the Observational Medical Outcomes Partnership (OMOP) database, and the Observational Health Data Science Informatics (OHDSI) tools against the database. 
